@@ -36,7 +36,7 @@ class CollectionViewController: UICollectionViewController {
             cardsArray.append(Card.init(animalName: array[i]))
         }
         
-        //cardsArray.shuffle()
+        cardsArray.shuffle()
     
 
     }
@@ -171,7 +171,7 @@ class CollectionViewController: UICollectionViewController {
         let fixed = playersData.sorted(by:{ $0.timeTaken < $1.timeTaken })
         var FirstTenSortedArray:[sharedPrefValue] = [sharedPrefValue.init()]
         for i in 0..<fixed.count{
-            if(i<2){
+            if(i<10){
                 FirstTenSortedArray.append(fixed[i])
             }
         }
