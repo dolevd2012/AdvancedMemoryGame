@@ -1,6 +1,7 @@
 # memoryGame-maps
 
-Memory game with 2 difficulties that were implemented with collectionView, popout to enter player name when game ends and top Ten scoreboard
+Memory game with 2 difficulties that were implemented with collectionViewController and CollectionViewCell, popout to enter player name when game ends and top Ten scoreboard
+that has both TableView and containerView that contains googlemaps View
 
 
 added pod 'GoogleMaps', '5.0.0' to the pod file which helped me import googleMaps and implement their map in my application
