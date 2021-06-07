@@ -1,5 +1,7 @@
 # memoryGame-maps
 
+just for the sake of showing I disabled the shuffle option for the cards 
+
 
 ## Gameplay on normal mode 
 
