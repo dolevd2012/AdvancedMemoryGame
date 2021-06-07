@@ -23,6 +23,6 @@ just for the sake of showing I disabled the shuffle option for the cards
 
 
 
-## top ten scoreboard + google maps cocoapod pod
+## top ten scoreboard + google maps cocoapod
 
 ![topTen](https://user-images.githubusercontent.com/74798510/121059973-bb9ecd80-c7ca-11eb-912d-acacc2220c4e.gif)
