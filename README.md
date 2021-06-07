@@ -34,5 +34,5 @@ just for the sake of showing I disabled the shuffle option for the cards
 
 changing screen to horizontal in top ten, google maps doesn't flip 
 
-![Simulator Screen Shot - iPhone 12 - 2021-06-07 at 09 48 31](https://user-images.githubusercontent.com/74798510/121065921-f6f0ca80-c7d1-11eb-9889-9de419c71d45.png)
+![Simulator Screen Shot - iPhone 12 - 2021-06-07 at 09 49 15](https://user-images.githubusercontent.com/74798510/121065917-f5270700-c7d1-11eb-9d4b-7d7d00b86475.png)
 
