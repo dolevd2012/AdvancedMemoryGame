@@ -22,11 +22,12 @@ just for the sake of showing I disabled the shuffle option for the cards
 
 
 ## top ten scoreboard + google maps cocoapod
+chose london at the xcode scheme
 
 ![topTen](https://user-images.githubusercontent.com/74798510/121059973-bb9ecd80-c7ca-11eb-912d-acacc2220c4e.gif)
 
 
-###Top ten scoreboard night time
+### Top ten scoreboard night time
 
 ![Simulator Screen Shot - iPhone 12 - 2021-06-07 at 09 48 31](https://user-images.githubusercontent.com/74798510/121065921-f6f0ca80-c7d1-11eb-9889-9de419c71d45.png)
 
