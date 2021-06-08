@@ -6,6 +6,7 @@ that has both TableView and containerView that contains googlemaps View
 
 added pod 'GoogleMaps', '5.0.0' to the pod file which helped me import googleMaps and implement their map in my application
 for more information open https://developers.google.com/maps/documentation/ios-sdk/start
+
 just for the sake of showing I disabled the shuffle option for the cards 
 
 
